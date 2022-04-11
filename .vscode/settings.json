@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./vending_machine/src"
+    ]
+}
