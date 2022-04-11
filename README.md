@@ -16,6 +16,7 @@
 ## To run the test cases
 1. Install coverage with pip using the command `pip install coverage`
 2. Execute the following command inside `VendingMachine/vending_machine/test/`
+
 `coverage run -m unittest`
 3. There are 27 unit tests available for the application
 4. To see the test coverage report, run the following command
