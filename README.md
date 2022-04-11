@@ -11,6 +11,7 @@
 `python main.py`
 
 2. You would see the CLI showing the following
+
 ![main](./vending_machine/img/main.png)
 
 
